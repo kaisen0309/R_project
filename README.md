@@ -4,6 +4,6 @@
 
 
 # **示意圖**
-  <img src="https://github.com/kaisen0309/R_project/blob/main/images/R1.png" alt="主題圖" width="500" />
-  <img src="https://github.com/kaisen0309/R_project/blob/main/images/R2.png" alt="訂單圖" width="500" />
+  <img src="https://github.com/kaisen0309/R_project/blob/main/images/R1.png" alt="長條圖" width="500" />
+  <img src="https://github.com/kaisen0309/R_project/blob/main/images/R2.png" alt="折線圖" width="500" />
 
